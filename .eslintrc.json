@@ -1,0 +1,30 @@
+{
+  "env": {
+    "commonjs": true,
+    "es6": true,
+    "node": true
+  },
+  "extends": ["prettier", "airbnb-base"],
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parserOptions": {
+    "ecmaVersion": 2021
+  },
+  "plugins": ["prettier"],
+  "rules": {
+    "comma-dangle": "warn",
+    "global-require": "warn",
+    "prettier/prettier": "error",
+    "operator-linebreak": ["warn", "before"],
+    "max-len": [
+      "warn",
+      {
+        "code": 80,
+        "ignoreStrings": true
+      }
+    ],
+    "no-restricted-syntax": "warn"
+  }
+}
