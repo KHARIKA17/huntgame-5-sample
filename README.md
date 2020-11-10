@@ -10,7 +10,7 @@
 ## Links
 
 - [Webapp on Heroku](https://huntgame-5-sample.herokuapp.com/)
-- [Source](https://github.com/denisecase/web-app-2020-fall)
+- [Source](https://github.com/KHARIKA17/huntgame-5-sample)
 
 ## Prerequisites
 
