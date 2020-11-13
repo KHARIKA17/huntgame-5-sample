@@ -3,7 +3,7 @@
 
 :root {
   /* set new css variables at the top of the tree */
-  --nw-green: white;
+  --nw-green: rgb(20, 77, 37);
 }
 
 a {
@@ -11,7 +11,7 @@ a {
 }
 
 .page-container {
-  background-color: rgb(20, 102, 61);
+  background-color: rgb(216, 211, 211);
 }
 
 
