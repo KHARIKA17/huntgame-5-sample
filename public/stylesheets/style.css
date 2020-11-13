@@ -3,7 +3,7 @@
 
 :root {
   /* set new css variables at the top of the tree */
-  --nw-green: #006747;
+  --nw-green: white;
 }
 
 a {
